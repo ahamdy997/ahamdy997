@@ -36,7 +36,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![tailwind](https://img.shields.io/badge/-tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
-![laravel](https://img.shields.io/badge/-tailwind-05122A?style=flat&logo=laravel)&nbsp;
+![laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)&nbsp;
 
 
 
